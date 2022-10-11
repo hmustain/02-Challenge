@@ -87,21 +87,12 @@ p {
     background-color: #2589bd;
 }
 
-/* Can I consolidate the below 3 since they are all the same */
-.benefit-lead {
+/* Consolidated 3 into 1 group */
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
 /* consolidated 3 into 1 group*/
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3{
