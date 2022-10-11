@@ -15,7 +15,7 @@ body {
     color: #ffffff;
 }
 
-/* can i consolidate .header h1 and .seo and just remove the .seo class */
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
